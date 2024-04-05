@@ -1,0 +1,14 @@
+C:\Users\maick\OneDrive\Imágenes\Pókemones\bin\Debug\net8.0\Pókemones.exe
+C:\Users\maick\OneDrive\Imágenes\Pókemones\bin\Debug\net8.0\Pókemones.deps.json
+C:\Users\maick\OneDrive\Imágenes\Pókemones\bin\Debug\net8.0\Pókemones.runtimeconfig.json
+C:\Users\maick\OneDrive\Imágenes\Pókemones\bin\Debug\net8.0\Pókemones.dll
+C:\Users\maick\OneDrive\Imágenes\Pókemones\bin\Debug\net8.0\Pókemones.pdb
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.AssemblyInfoInputs.cache
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.AssemblyInfo.cs
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.csproj.CoreCompileInputs.cache
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.dll
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\refint\Pókemones.dll
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.pdb
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\Pókemones.genruntimeconfig.cache
+C:\Users\maick\OneDrive\Imágenes\Pókemones\obj\Debug\net8.0\ref\Pókemones.dll
